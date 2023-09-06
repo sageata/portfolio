@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>powerautomate, powerapps, powerbi on Paul-Razvan Sarbu</title>
+    <link>/tags/powerautomate-powerapps-powerbi/</link>
+    <description>Recent content in powerautomate, powerapps, powerbi on Paul-Razvan Sarbu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 11:39:13 +0200</lastBuildDate><atom:link href="/tags/powerautomate-powerapps-powerbi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power Platform</title>
+      <link>/blog/third/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
+      
+      <guid>/blog/third/</guid>
+      <description>Onboard Cabin Reports - Power App In December 2021, the Onboard Cabin Report, previously mentioned, got a huge update, the categories have been updated to a 5 level hierarchical taxonomy.</description>
+    </item>
+    
+  </channel>
+</rss>

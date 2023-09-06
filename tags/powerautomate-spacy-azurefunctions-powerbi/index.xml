@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>powerautomate, spaCy, azurefunctions, powerbi on Paul-Razvan Sarbu</title>
+    <link>/tags/powerautomate-spacy-azurefunctions-powerbi/</link>
+    <description>Recent content in powerautomate, spaCy, azurefunctions, powerbi on Paul-Razvan Sarbu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 11:39:10 +0200</lastBuildDate><atom:link href="/tags/powerautomate-spacy-azurefunctions-powerbi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning</title>
+      <link>/blog/second/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
+      
+      <guid>/blog/second/</guid>
+      <description>Onboard Cabin Reports Classification using ML When I joined the Guest Delivery team (now Inflight Service &amp;amp; Hospitality) I’ve encountered the over reliance on Excel. Don’t get me wrong, I love Excel, but people use it wrong all the time.</description>
+    </item>
+    
+  </channel>
+</rss>

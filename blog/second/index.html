@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="generator" content="Hugo 0.118.2">
+	
+	<link rel="icon" href="/images/logo.png">
+	
+	<title>Machine Learning | Paul-Razvan Sarbu</title>
+	
+	
+
+	<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="/blog/second/cover.png"/>
+<meta name="twitter:title" content="Machine Learning"/>
+<meta name="twitter:description" content="Onboard Cabin Reports Classification using ML When I joined the Guest Delivery team (now Inflight Service &amp; Hospitality) I’ve encountered the over reliance on Excel. Don’t get me wrong, I love Excel, but people use it wrong all the time."/>
+
+	<meta property="og:title" content="Machine Learning" />
+<meta property="og:description" content="Onboard Cabin Reports Classification using ML When I joined the Guest Delivery team (now Inflight Service &amp; Hospitality) I’ve encountered the over reliance on Excel. Don’t get me wrong, I love Excel, but people use it wrong all the time." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/blog/second/" /><meta property="og:image" content="/blog/second/cover.png"/><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2018-10-07T11:39:10+02:00" />
+<meta property="article:modified_time" content="2018-10-07T11:39:10+02:00" />
+
+
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+
+	
+	<link rel="stylesheet" href="/css/medium.04a08634a0243b3d56a7a18071e2478881d206bd755ac27b76281f61e5cbf832.css" integrity="sha256-BKCGNKAkOz1Wp6GAceJHiIHSBr11WsJ7digfYeXL&#43;DI=">
+
+	
+	<link rel="stylesheet" href="/css/additional.8819b6defcdc6d21280f9b402b00df87ca779135901de6c22e708c62e20184b9.css" integrity="sha256-iBm23vzcbSEoD5tAKwDfh8p3kTWQHebCLnCMYuIBhLk=">
+
+	
+	
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        
+        <a class="navbar-brand" href="//">
+
+            
+            <img src="/images/logo.png" alt="logo">
+            
+        </a>
+        
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            
+            <ul class="navbar-nav ml-auto">
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/blog">Portfolio</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/">About Me</a>
+                </li>
+                
+            </ul>
+        </div>
+        
+    </div>
+</nav>
+
+
+    <div class="site-content">
+        <div class="container">
+<div class="mainheading">
+    <h1 class="sitetitle">Paul-Razvan Sarbu</h1>
+    <p class="lead">
+         Developer | Analyst
+    </p>
+</div><div class="main-content">
+    
+    <div class="container">
+        <div class="row">
+            
+            <div class="col-md-2 pl-0"><div class="share sticky-top sticky-top-offset">
+    <p>Share</p>
+    <ul>
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://twitter.com/intent/tweet?text=Machine%20Learning&url=%2fblog%2fsecond%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=435');return false;">
+        <i class="fab fa-twitter"></i>
+        </a>
+        </li>
+        
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://facebook.com/sharer.php?u=%2fblog%2fsecond%2f" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+        <i class="fab fa-facebook-f"></i>
+        </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://www.xing.com/spi/shares/new?url=%2fblog%2fsecond%2f" onclick="window.open(this.href, 'xing-share', 'width=550,height=435');return false;">
+        <i class="fab fa-xing"></i>
+        </a>
+        </li>        
+    </ul>
+
+    
+</div>
+</div>
+            
+            <div class="col-md-9 flex-first flex-md-unordered">
+                <div class="mainheading">
+                    
+                    
+                    
+                    
+                    <div class="row post-top-meta">
+                        <div
+                            class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0 md-nopad-right">
+                            <img class="author-thumb"
+                                src="/images/author.png"
+                                alt="Paul-Razvan Sarbu">
+                        </div>
+                        <div
+                            class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
+                            <a target="_blank" class="link-dark">Paul-Razvan Sarbu</a><br>
+                            <span class="author-description">
+                                Developer | Analyst<br>
+                                <i class="far fa-star"></i>
+                                Oct 7, 2018
+                                <i class="far fa-clock clock"></i>
+                                2 min read
+                            </span>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    
+                    <h1 class="posttitle">Machine Learning</h1>
+                </div>
+
+                
+                
+                
+                <img class="featured-image img-fluid" src="/blog/second/cover.png"
+                    alt="thumbnail for this post">
+                
+                
+
+                
+                <div class="article-post">
+                    <h2 id="onboard-cabin-reports-classification-using-ml">Onboard Cabin Reports Classification using ML</h2>
+<p>When I joined the Guest Delivery team (now Inflight Service &amp; Hospitality) I’ve encountered the over reliance on Excel. Don’t get me wrong, I love Excel, but people use it wrong all the time.</p>
+<p>The Onboard Cabin Report (OCR for short) is a report authored by the Senior Crew Members that convey different messages to the business, such as guest complaints, defects, shortages, you get the idea.</p>
+<p>These reports used be classified manually by a handful of people that had 1000 other things to do. The process was something like this, one person was receiving a CSV file with the reports submitted the previous day, this person  copy-pasted the entries into an Excel file and then added additional columns that classified the report with a 3 levels deep hierarchical taxonomy. Each report was read and people would refer to a different sheet and copy-pasted the category of the report. At the end of the month a report bas built manually based on this classification, from scratch.</p>
+<p>Once again, I felt that our time could be better spent on something else, therefore I’ve decided to embark on learning how to train a machine learning model. I’ve gathered all the reports from the previous years that have been classified this way, cleaned it and prepared the dataset for training. Used <a href="https://spacy.io/usage#quickstart">spaCy</a>, which is a Natural language processing library for Python that offers tokenization, and parsing, and after fine-tuning the model achieved a 92% accuracy on the classification.</p>
+<p>To make the solution compelling I had to develop a few other things along the way, such a way of automating the data consolidation using Power Automate, and since Power Automate cannot run Python code I had to create a custom Azure function that was doing the inference of the categories based on the text written in the OCRs and added the classification columns along with data validation back into an Excel file.</p>
+<h3 id="key-outcomes">Key Outcomes</h3>
+<ul>
+<li>reduced the number of errors caused during the classification</li>
+<li>assured completeness of the OCR data since this was done automatically in the background</li>
+<li>been able to generate a Power BI report using the Excel file as a source which refreshed automatically</li>
+</ul>
+
+                </div>
+
+                
+                <div class="after-post-tags">
+                    <ul class="tags">
+                        
+                        <li>
+                            <a href="/%20/tags/powerautomate-spacy-azurefunctions-powerbi">powerautomate, spaCy, azurefunctions, powerbi</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                
+
+                
+                <div
+                    class="row PageNavigation d-flex justify-content-between font-weight-bold">
+                    
+                    <a class="d-block col-md-6" href="/blog/third/"> &laquo;
+                        Power Platform</a>
+                    
+                    
+                    <a class="d-block col-md-6 text-lg-right"
+                        href="/blog/first/">Process Improvement &raquo;</a>
+                    
+                    <div class="clearfix"></div>
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+    
+    
+</div>
+
+
+        </div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                &copy; Copyright Paul-Razvan Sarbu - All rights reserved
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">
+                <a target="_blank" rel="noopener"
+                    href="https://www.wowthemes.net">Mediumish Theme</a> by
+                WowThemes.net
+            </div>
+        </div>
+    </div>
+</footer>
+
+    </div>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+<script src="/js/mediumish.84218587c174fd40bce82544b98851670f0b124a7324b349c54a4065e2b32ffc.js" integrity="sha256-hCGFh8F0/UC86CVEuYhRZw8LEkpzJLNJxUpAZeKzL/w="></script>
+</body>
+
+</html>

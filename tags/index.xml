@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Paul-Razvan Sarbu</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Paul-Razvan Sarbu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 11:39:25 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>excel</title>
+      <link>/tags/excel/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
+      
+      <guid>/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>powerbi</title>
+      <link>/tags/powerbi/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
+      
+      <guid>/tags/powerbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dart</title>
+      <link>/tags/dart/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
+      
+      <guid>/tags/dart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firebase</title>
+      <link>/tags/firebase/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
+      
+      <guid>/tags/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flutter</title>
+      <link>/tags/flutter/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
+      
+      <guid>/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>animations</title>
+      <link>/tags/animations/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
+      
+      <guid>/tags/animations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>powerautomate, powerapps, powerbi</title>
+      <link>/tags/powerautomate-powerapps-powerbi/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
+      
+      <guid>/tags/powerautomate-powerapps-powerbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>powerautomate, spaCy, azurefunctions, powerbi</title>
+      <link>/tags/powerautomate-spacy-azurefunctions-powerbi/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
+      
+      <guid>/tags/powerautomate-spacy-azurefunctions-powerbi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
