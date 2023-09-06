@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Paul-Razvan Sarbu</title>
-    <link>/categories/</link>
+    <link>https://sageata.github.io/portfolio/categories/</link>
     <description>Recent content in Categories on Paul-Razvan Sarbu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Paul-Razvan Sarbu - All rights reserved</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Paul-Razvan Sarbu - All rights reserved</copyright><atom:link href="https://sageata.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

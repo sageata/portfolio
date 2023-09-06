@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul-Razvan Sarbu</title>
-    <link>/</link>
+    <link>https://sageata.github.io/portfolio/</link>
     <description>Recent content on Paul-Razvan Sarbu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
-    <lastBuildDate>Tue, 19 Mar 2019 22:04:13 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Mar 2019 22:04:13 +0100</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Separate post in seperate content-folder</title>
-      <link>/separate/separate/</link>
+      <link>https://sageata.github.io/portfolio/separate/separate/</link>
       <pubDate>Tue, 19 Mar 2019 22:04:13 +0100</pubDate>
       
-      <guid>/separate/separate/</guid>
+      <guid>https://sageata.github.io/portfolio/separate/separate/</guid>
       <description>This is a seperate post in a seperate content-folder Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
     </item>
     
     <item>
       <title>Six Sigma - Part One</title>
-      <link>/blog/sixth/</link>
+      <link>https://sageata.github.io/portfolio/blog/sixth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
       
-      <guid>/blog/sixth/</guid>
+      <guid>https://sageata.github.io/portfolio/blog/sixth/</guid>
       <description>Abusing Excel End of 2022, I have been tasked to prepare the forms for Six Sigma time study. After looking at previous similar work, done by my peers, I have realised that it&amp;rsquo;s a mad man&amp;rsquo;s job.</description>
     </item>
     
     <item>
       <title>Better Forms</title>
-      <link>/blog/fifth/</link>
+      <link>https://sageata.github.io/portfolio/blog/fifth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
       
-      <guid>/blog/fifth/</guid>
+      <guid>https://sageata.github.io/portfolio/blog/fifth/</guid>
       <description>iSurvey Before you ask, this project has not been released in to the world, however I can provide you with demo iOS or Android app.</description>
     </item>
     
     <item>
       <title>Flutter/Dart - Animations</title>
-      <link>/blog/fourth/</link>
+      <link>https://sageata.github.io/portfolio/blog/fourth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
       
-      <guid>/blog/fourth/</guid>
+      <guid>https://sageata.github.io/portfolio/blog/fourth/</guid>
       <description>Wallet in Flutter This is a fun little project built with Flutter and Firebase that showcases the versatility of these frameworks.
 Although not in production, this project could easily be transformed into a shopping app with beautiful animations and intuitive navigation.</description>
     </item>
     
     <item>
       <title>Power Platform</title>
-      <link>/blog/third/</link>
+      <link>https://sageata.github.io/portfolio/blog/third/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
       
-      <guid>/blog/third/</guid>
+      <guid>https://sageata.github.io/portfolio/blog/third/</guid>
       <description>Onboard Cabin Reports - Power App In December 2021, the Onboard Cabin Report, previously mentioned, got a huge update, the categories have been updated to a 5 level hierarchical taxonomy.</description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>/blog/second/</link>
+      <link>https://sageata.github.io/portfolio/blog/second/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
       
-      <guid>/blog/second/</guid>
+      <guid>https://sageata.github.io/portfolio/blog/second/</guid>
       <description>Onboard Cabin Reports Classification using ML When I joined the Guest Delivery team (now Inflight Service &amp;amp; Hospitality) I’ve encountered the over reliance on Excel. Don’t get me wrong, I love Excel, but people use it wrong all the time.</description>
     </item>
     
     <item>
       <title>Imprint</title>
-      <link>/static/imprint/</link>
+      <link>https://sageata.github.io/portfolio/static/imprint/</link>
       <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
       
-      <guid>/static/imprint/</guid>
+      <guid>https://sageata.github.io/portfolio/static/imprint/</guid>
       <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Process Improvement</title>
-      <link>/blog/first/</link>
+      <link>https://sageata.github.io/portfolio/blog/first/</link>
       <pubDate>Fri, 19 Feb 2016 11:17:14 +0200</pubDate>
       
-      <guid>/blog/first/</guid>
+      <guid>https://sageata.github.io/portfolio/blog/first/</guid>
       <description>Note that the data in the chart above is fictional
 This how I (re)started Although I’ve graduated the IT high school in 2001 as Junior Analyst, Programmer I didn’t pursue a career in the IT world until I have rediscovered my passion for coding when become a Line Manager in 2016.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/blog/eighth/</link>
+      <link>https://sageata.github.io/portfolio/blog/eighth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/eighth/</guid>
+      <guid>https://sageata.github.io/portfolio/blog/eighth/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/blog/ninth/</link>
+      <link>https://sageata.github.io/portfolio/blog/ninth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/ninth/</guid>
+      <guid>https://sageata.github.io/portfolio/blog/ninth/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/blog/seventh/</link>
+      <link>https://sageata.github.io/portfolio/blog/seventh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/seventh/</guid>
+      <guid>https://sageata.github.io/portfolio/blog/seventh/</guid>
       <description></description>
     </item>
     
