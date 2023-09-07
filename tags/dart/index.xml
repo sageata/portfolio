@@ -9,13 +9,12 @@
     <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
     <lastBuildDate>Wed, 06 Sep 2023 11:39:16 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/tags/dart/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Flutter/Dart - Animations</title>
+      <title>Recreating Apple&#39;s iOS Wallet Animations with Flutter and Dart</title>
       <link>https://sageata.github.io/portfolio/blog/004-flutter-animations/</link>
       <pubDate>Wed, 06 Sep 2023 11:39:16 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/blog/004-flutter-animations/</guid>
-      <description>Wallet in Flutter This is a fun little project built with Flutter and Firebase that showcases the versatility of these frameworks.
-Although not in production, this project could easily be transformed into a shopping app with beautiful animations and intuitive navigation.</description>
+      <description>In the world of mobile development, animations can make or break user experience. Inspired by the sleek animations in Apple&amp;rsquo;s iOS Wallet, I embarked on a journey to replicate them using Flutter and Dart.</description>
     </item>
     
     <item>
@@ -24,7 +23,7 @@ Although not in production, this project could easily be transformed into a shop
       <pubDate>Tue, 05 Sep 2023 11:39:22 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/blog/005-isurvey/</guid>
-      <description>iSurvey Before you ask, this project has not been released in to the world, however I can provide you with demo iOS or Android app.</description>
+      <description>iSurvey In a world dominated by platforms like Survey Monkey, Qualtrics, and Microsoft Forms, each with its own strengths and weaknesses, there&amp;rsquo;s room for innovation. Enter iSurvey, a project designed to empower survey authors and enhance the data collection process.</description>
     </item>
     
   </channel>

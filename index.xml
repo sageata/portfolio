@@ -9,13 +9,12 @@
     <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
     <lastBuildDate>Wed, 06 Sep 2023 11:39:16 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Flutter/Dart - Animations</title>
+      <title>Recreating Apple&#39;s iOS Wallet Animations with Flutter and Dart</title>
       <link>https://sageata.github.io/portfolio/blog/004-flutter-animations/</link>
       <pubDate>Wed, 06 Sep 2023 11:39:16 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/blog/004-flutter-animations/</guid>
-      <description>Wallet in Flutter This is a fun little project built with Flutter and Firebase that showcases the versatility of these frameworks.
-Although not in production, this project could easily be transformed into a shopping app with beautiful animations and intuitive navigation.</description>
+      <description>In the world of mobile development, animations can make or break user experience. Inspired by the sleek animations in Apple&amp;rsquo;s iOS Wallet, I embarked on a journey to replicate them using Flutter and Dart.</description>
     </item>
     
     <item>
@@ -24,7 +23,7 @@ Although not in production, this project could easily be transformed into a shop
       <pubDate>Tue, 05 Sep 2023 11:39:22 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/blog/005-isurvey/</guid>
-      <description>iSurvey Before you ask, this project has not been released in to the world, however I can provide you with demo iOS or Android app.</description>
+      <description>iSurvey In a world dominated by platforms like Survey Monkey, Qualtrics, and Microsoft Forms, each with its own strengths and weaknesses, there&amp;rsquo;s room for innovation. Enter iSurvey, a project designed to empower survey authors and enhance the data collection process.</description>
     </item>
     
     <item>
@@ -33,7 +32,7 @@ Although not in production, this project could easily be transformed into a shop
       <pubDate>Mon, 20 Feb 2023 11:39:25 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/blog/007-six-sigma-part-two/</guid>
-      <description>Deneb - VEGA Lite The Power BI out-of-the-box Scatter Plot visual is very good, however it lacks a key feature that I needed to better represent crew actions such as using SVGs.</description>
+      <description>Unlocking Advanced Customizations in Power BI with Deneb and VEGA Lite Power BI&amp;rsquo;s default Scatter Plot visual is robust but lacks some advanced customization features, such as the use of SVGs for better data representation.</description>
     </item>
     
     <item>
@@ -42,7 +41,7 @@ Although not in production, this project could easily be transformed into a shop
       <pubDate>Sun, 19 Feb 2023 11:39:25 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/blog/006-six-sigma-part-one/</guid>
-      <description>Abusing Excel End of 2022, I have been tasked to prepare the forms for Six Sigma time study. After looking at previous similar work, done by my peers, I have realised that it&amp;rsquo;s a mad man&amp;rsquo;s job.</description>
+      <description>Abusing Excel: Streamlining Six Sigma Time Studies&amp;quot; In late 2022, I was tasked with preparing forms for Six Sigma time studies. Traditional methods involved pen and paper, followed by manual data entry into Excel—a laborious and error-prone process.</description>
     </item>
     
     <item>
@@ -51,16 +50,16 @@ Although not in production, this project could easily be transformed into a shop
       <pubDate>Mon, 31 Jan 2022 11:39:13 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/blog/003-power-app/</guid>
-      <description>Onboard Cabin Reports - Power App In December 2021, the Onboard Cabin Report, previously mentioned, got a huge update, the categories have been updated to a 5 level hierarchical taxonomy.</description>
+      <description>In December 2021, the Onboard Cabin Report (OCR) underwent a significant update. The categories were expanded to a five-level hierarchical taxonomy, allowing crew members to pre-classify the OCRs.</description>
     </item>
     
     <item>
-      <title>Machine Learning</title>
+      <title>Automating the Onboard Cabin Report: A Machine Learning Approach</title>
       <link>https://sageata.github.io/portfolio/blog/002-machine-learning-ocr/</link>
       <pubDate>Mon, 31 May 2021 11:39:10 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/blog/002-machine-learning-ocr/</guid>
-      <description>Onboard Cabin Reports Classification using ML When I joined the Guest Delivery team (now Inflight Service &amp;amp; Hospitality) I’ve encountered the over reliance on Excel. Don’t get me wrong, I love Excel, but people use it wrong all the time.</description>
+      <description>Onboard Cabin Reports Classification using ML When I joined the Guest Delivery team, now known as Inflight Service &amp;amp; Hospitality, I quickly noticed an over-reliance on Excel.</description>
     </item>
     
     <item>
@@ -82,13 +81,13 @@ Although not in production, this project could easily be transformed into a shop
     </item>
     
     <item>
-      <title>Process Improvement</title>
+      <title>Rediscovering My Passion for Coding: A Journey from Line Manager to Data Analyst</title>
       <link>https://sageata.github.io/portfolio/blog/001-line-manager-trends/</link>
       <pubDate>Fri, 19 Feb 2016 11:17:14 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/blog/001-line-manager-trends/</guid>
       <description>Note that the data in the chart above is fictional
-This how I (re)started Although I’ve graduated the IT high school in 2001 as Junior Analyst, Programmer I didn’t pursue a career in the IT world until I have rediscovered my passion for coding when become a Line Manager in 2016.</description>
+Although I graduated from an IT high school in 2001 with a focus on Junior Analysis and Programming, I didn&amp;rsquo;t fully immerse myself in the tech world until 2016.</description>
     </item>
     
   </channel>
