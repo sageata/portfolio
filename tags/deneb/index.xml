@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deneb on Paul-Razvan Sarbu</title>
+    <link>https://sageata.github.io/portfolio/tags/deneb/</link>
+    <description>Recent content in deneb on Paul-Razvan Sarbu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
+    <lastBuildDate>Mon, 20 Feb 2023 11:39:25 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/tags/deneb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Six Sigma - Part Two</title>
+      <link>https://sageata.github.io/portfolio/blog/007-six-sigma-part-two/</link>
+      <pubDate>Mon, 20 Feb 2023 11:39:25 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/blog/007-six-sigma-part-two/</guid>
+      <description>Deneb - VEGA Lite The Power BI out-of-the-box Scatter Plot visual is very good, however it lacks a key feature that I needed to better represent crew actions such as using SVGs.</description>
+    </item>
+    
+  </channel>
+</rss>

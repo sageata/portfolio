@@ -7,65 +7,83 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:39:25 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>excel</title>
-      <link>https://sageata.github.io/portfolio/tags/excel/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
-      
-      <guid>https://sageata.github.io/portfolio/tags/excel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>powerbi</title>
-      <link>https://sageata.github.io/portfolio/tags/powerbi/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
-      
-      <guid>https://sageata.github.io/portfolio/tags/powerbi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dart</title>
-      <link>https://sageata.github.io/portfolio/tags/dart/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
-      
-      <guid>https://sageata.github.io/portfolio/tags/dart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>firebase</title>
-      <link>https://sageata.github.io/portfolio/tags/firebase/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
-      
-      <guid>https://sageata.github.io/portfolio/tags/firebase/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flutter</title>
-      <link>https://sageata.github.io/portfolio/tags/flutter/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
-      
-      <guid>https://sageata.github.io/portfolio/tags/flutter/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 06 Sep 2023 11:39:16 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>animations</title>
       <link>https://sageata.github.io/portfolio/tags/animations/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
+      <pubDate>Wed, 06 Sep 2023 11:39:16 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/tags/animations/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>dart</title>
+      <link>https://sageata.github.io/portfolio/tags/dart/</link>
+      <pubDate>Wed, 06 Sep 2023 11:39:16 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/tags/dart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flutter</title>
+      <link>https://sageata.github.io/portfolio/tags/flutter/</link>
+      <pubDate>Wed, 06 Sep 2023 11:39:16 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firebase</title>
+      <link>https://sageata.github.io/portfolio/tags/firebase/</link>
+      <pubDate>Tue, 05 Sep 2023 11:39:22 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/tags/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deneb</title>
+      <link>https://sageata.github.io/portfolio/tags/deneb/</link>
+      <pubDate>Mon, 20 Feb 2023 11:39:25 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/tags/deneb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>powerbi</title>
+      <link>https://sageata.github.io/portfolio/tags/powerbi/</link>
+      <pubDate>Mon, 20 Feb 2023 11:39:25 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/tags/powerbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegalite</title>
+      <link>https://sageata.github.io/portfolio/tags/vegalite/</link>
+      <pubDate>Mon, 20 Feb 2023 11:39:25 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/tags/vegalite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>excel</title>
+      <link>https://sageata.github.io/portfolio/tags/excel/</link>
+      <pubDate>Sun, 19 Feb 2023 11:39:25 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>powerautomate, powerapps, powerbi</title>
       <link>https://sageata.github.io/portfolio/tags/powerautomate-powerapps-powerbi/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
+      <pubDate>Mon, 31 Jan 2022 11:39:13 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/tags/powerautomate-powerapps-powerbi/</guid>
       <description></description>
@@ -74,7 +92,7 @@
     <item>
       <title>powerautomate, spaCy, azurefunctions, powerbi</title>
       <link>https://sageata.github.io/portfolio/tags/powerautomate-spacy-azurefunctions-powerbi/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
+      <pubDate>Mon, 31 May 2021 11:39:10 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/tags/powerautomate-spacy-azurefunctions-powerbi/</guid>
       <description></description>

@@ -7,24 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:39:22 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/tags/dart/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 11:39:16 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/tags/dart/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Better Forms</title>
-      <link>https://sageata.github.io/portfolio/blog/fifth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
+      <title>Flutter/Dart - Animations</title>
+      <link>https://sageata.github.io/portfolio/blog/004-flutter-animations/</link>
+      <pubDate>Wed, 06 Sep 2023 11:39:16 +0200</pubDate>
       
-      <guid>https://sageata.github.io/portfolio/blog/fifth/</guid>
-      <description>iSurvey Before you ask, this project has not been released in to the world, however I can provide you with demo iOS or Android app.</description>
+      <guid>https://sageata.github.io/portfolio/blog/004-flutter-animations/</guid>
+      <description>Wallet in Flutter This is a fun little project built with Flutter and Firebase that showcases the versatility of these frameworks.
+Although not in production, this project could easily be transformed into a shopping app with beautiful animations and intuitive navigation.</description>
     </item>
     
     <item>
-      <title>Flutter/Dart - Animations</title>
-      <link>https://sageata.github.io/portfolio/blog/fourth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
+      <title>Better Forms</title>
+      <link>https://sageata.github.io/portfolio/blog/005-isurvey/</link>
+      <pubDate>Tue, 05 Sep 2023 11:39:22 +0200</pubDate>
       
-      <guid>https://sageata.github.io/portfolio/blog/fourth/</guid>
-      <description>Wallet in Flutter This is a fun little project built with Flutter and Firebase that showcases the versatility of these frameworks.
-Although not in production, this project could easily be transformed into a shopping app with beautiful animations and intuitive navigation.</description>
+      <guid>https://sageata.github.io/portfolio/blog/005-isurvey/</guid>
+      <description>iSurvey Before you ask, this project has not been released in to the world, however I can provide you with demo iOS or Android app.</description>
     </item>
     
   </channel>
