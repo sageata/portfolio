@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spaCy on Paul-Razvan Sarbu</title>
+    <link>https://sageata.github.io/portfolio/tags/spacy/</link>
+    <description>Recent content in spaCy on Paul-Razvan Sarbu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
+    <lastBuildDate>Mon, 31 May 2021 11:39:10 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/tags/spacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating the Onboard Cabin Report: A Machine Learning Approach</title>
+      <link>https://sageata.github.io/portfolio/blog/002-machine-learning-ocr/</link>
+      <pubDate>Mon, 31 May 2021 11:39:10 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/blog/002-machine-learning-ocr/</guid>
+      <description>Onboard Cabin Reports Classification using ML When I joined the Guest Delivery team, now known as Inflight Service &amp;amp; Hospitality, I quickly noticed an over-reliance on Excel.</description>
+    </item>
+    
+  </channel>
+</rss>

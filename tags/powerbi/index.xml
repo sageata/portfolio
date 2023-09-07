@@ -27,6 +27,24 @@
     </item>
     
     <item>
+      <title>Power Platform</title>
+      <link>https://sageata.github.io/portfolio/blog/003-power-app/</link>
+      <pubDate>Mon, 31 Jan 2022 11:39:13 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/blog/003-power-app/</guid>
+      <description>In December 2021, the Onboard Cabin Report (OCR) underwent a significant update. The categories were expanded to a five-level hierarchical taxonomy, allowing crew members to pre-classify the OCRs.</description>
+    </item>
+    
+    <item>
+      <title>Automating the Onboard Cabin Report: A Machine Learning Approach</title>
+      <link>https://sageata.github.io/portfolio/blog/002-machine-learning-ocr/</link>
+      <pubDate>Mon, 31 May 2021 11:39:10 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/blog/002-machine-learning-ocr/</guid>
+      <description>Onboard Cabin Reports Classification using ML When I joined the Guest Delivery team, now known as Inflight Service &amp;amp; Hospitality, I quickly noticed an over-reliance on Excel.</description>
+    </item>
+    
+    <item>
       <title>Rediscovering My Passion for Coding: A Journey from Line Manager to Data Analyst</title>
       <link>https://sageata.github.io/portfolio/blog/001-line-manager-trends/</link>
       <pubDate>Fri, 19 Feb 2016 11:17:14 +0200</pubDate>
