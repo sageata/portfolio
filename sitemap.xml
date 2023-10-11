@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sageata.github.io/portfolio/tags/animations/</loc>
-    <lastmod>2023-09-06T11:39:16+02:00</lastmod>
+    <loc>https://sageata.github.io/portfolio/tags/airline/</loc>
+    <lastmod>2023-10-10T11:39:25+02:00</lastmod>
   </url><url>
     <loc>https://sageata.github.io/portfolio/blog/</loc>
+    <lastmod>2023-10-10T11:39:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sageata.github.io/portfolio/tags/ios/</loc>
+    <lastmod>2023-10-10T11:39:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sageata.github.io/portfolio/blog/008-meal-ordering-app/</loc>
+    <lastmod>2023-10-10T11:39:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sageata.github.io/portfolio/</loc>
+    <lastmod>2023-10-10T11:39:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sageata.github.io/portfolio/tags/swift/</loc>
+    <lastmod>2023-10-10T11:39:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sageata.github.io/portfolio/tags/swiftui/</loc>
+    <lastmod>2023-10-10T11:39:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sageata.github.io/portfolio/tags/</loc>
+    <lastmod>2023-10-10T11:39:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sageata.github.io/portfolio/tags/xcode/</loc>
+    <lastmod>2023-10-10T11:39:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sageata.github.io/portfolio/tags/animations/</loc>
     <lastmod>2023-09-06T11:39:16+02:00</lastmod>
   </url><url>
     <loc>https://sageata.github.io/portfolio/tags/dart/</loc>
@@ -14,13 +38,7 @@
     <loc>https://sageata.github.io/portfolio/tags/flutter/</loc>
     <lastmod>2023-09-06T11:39:16+02:00</lastmod>
   </url><url>
-    <loc>https://sageata.github.io/portfolio/</loc>
-    <lastmod>2023-09-06T11:39:16+02:00</lastmod>
-  </url><url>
     <loc>https://sageata.github.io/portfolio/blog/004-flutter-animations/</loc>
-    <lastmod>2023-09-06T11:39:16+02:00</lastmod>
-  </url><url>
-    <loc>https://sageata.github.io/portfolio/tags/</loc>
     <lastmod>2023-09-06T11:39:16+02:00</lastmod>
   </url><url>
     <loc>https://sageata.github.io/portfolio/blog/005-isurvey/</loc>

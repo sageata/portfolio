@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
-    <lastBuildDate>Wed, 06 Sep 2023 11:39:16 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Oct 2023 11:39:25 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meal Ordering App - Part One</title>
+      <link>https://sageata.github.io/portfolio/blog/008-meal-ordering-app/</link>
+      <pubDate>Tue, 10 Oct 2023 11:39:25 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/blog/008-meal-ordering-app/</guid>
+      <description>Creating a Seamless Meal Ordering App UI/UX with SwiftUI Transitioning from a Flutter background, I embraced the challenge of developing a user-friendly UI/UX for a meal ordering app aimed at assisting cabin crew using SwiftUI.</description>
+    </item>
+    
     <item>
       <title>Recreating Apple&#39;s iOS Wallet Animations with Flutter and Dart</title>
       <link>https://sageata.github.io/portfolio/blog/004-flutter-animations/</link>
@@ -41,7 +50,7 @@
       <pubDate>Sun, 19 Feb 2023 11:39:25 +0200</pubDate>
       
       <guid>https://sageata.github.io/portfolio/blog/006-six-sigma-part-one/</guid>
-      <description>Abusing Excel: Streamlining Six Sigma Time Studies&amp;quot; In late 2022, I was tasked with preparing forms for Six Sigma time studies. Traditional methods involved pen and paper, followed by manual data entry into Excel—a laborious and error-prone process.</description>
+      <description>Abusing Excel: Streamlining Six Sigma Time Studies In late 2022, I was tasked with preparing forms for Six Sigma time studies. Traditional methods involved pen and paper, followed by manual data entry into Excel—a laborious and error-prone process.</description>
     </item>
     
     <item>

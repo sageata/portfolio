@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swift on Paul-Razvan Sarbu</title>
+    <link>https://sageata.github.io/portfolio/tags/swift/</link>
+    <description>Recent content in swift on Paul-Razvan Sarbu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Paul-Razvan Sarbu - All rights reserved</copyright>
+    <lastBuildDate>Tue, 10 Oct 2023 11:39:25 +0200</lastBuildDate><atom:link href="https://sageata.github.io/portfolio/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meal Ordering App - Part One</title>
+      <link>https://sageata.github.io/portfolio/blog/008-meal-ordering-app/</link>
+      <pubDate>Tue, 10 Oct 2023 11:39:25 +0200</pubDate>
+      
+      <guid>https://sageata.github.io/portfolio/blog/008-meal-ordering-app/</guid>
+      <description>Creating a Seamless Meal Ordering App UI/UX with SwiftUI Transitioning from a Flutter background, I embraced the challenge of developing a user-friendly UI/UX for a meal ordering app aimed at assisting cabin crew using SwiftUI.</description>
+    </item>
+    
+  </channel>
+</rss>
